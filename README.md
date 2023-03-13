@@ -1,6 +1,8 @@
 # bash_scripting_programs
 ## five bash scripts to learn the bash syntax and terminal commands
-
+<div style="display:flex;justify-content:center">
+  <img style='width:150px;'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" />
+</div>
 Escrevi 5 scripts bash para praticar o básico da linguagem, como condicionais, operadores relacionais de string e numéricos, loops, variáveis e interpolação de string, leitura de argumentos etc...
 
 ### Os 5 scripts consistem em:
